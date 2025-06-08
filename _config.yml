@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://c2h6s.github.io/blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -116,6 +116,6 @@ admin:
 deploy:
   type: 'git'
   #repo改为repo: git@你的域名:/var/repo/hexo.git
-  repo: git@github.com:c2h6s/c2h6s.github.io.git
+  repo: git@github.com:c2h6s/blog.git
   #repo: git@168.138.175.197:/www/wwwroot/repo/hexo.git
   branch: main
